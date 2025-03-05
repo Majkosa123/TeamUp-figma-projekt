@@ -21,7 +21,7 @@ Projekt przedstawia zarówno wersję statyczną, jak i dynamiczną aplikacji w n
 ## Zrzuty ekranu
 
 ### Wersja statyczna
-![Zrzut ekranu wersji statycznej](ścieżka_do_zdjęcia.jpg)
+![Zrzut ekranu wersji statycznej](zrzut_interfejs.png)
 
 
 ## Technologie
